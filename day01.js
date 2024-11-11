@@ -1,6 +1,6 @@
 //Q2
 var PersonName = "Asharib";
-console.log("Hello ".concat(PersonName, ", would you like to learn some typescript today?"));
+console.log("Hi".concat(PersonName, ", would you like to learn some typescript today?"));
 //Q3
 var Name = "Pakistan";
 console.log(Name.toLocaleLowerCase());
